@@ -1,0 +1,20 @@
+{
+  "name": "titik",
+  "version": "1.0.0",
+  "description": "File Titik",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/novrian/titik.git"
+  },
+  "author": "Novrian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/novrian/titik/issues"
+  },
+  "homepage": "https://github.com/novrian/titik",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-symlink": "~0.3.0"
+  }
+}
