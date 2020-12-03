@@ -1,5 +1,5 @@
 [core]
-  editor = vim
+  editor = nvim
   # excludesfile = /home/k4k1-c0der/.gitignore
   excludesfile = ~/.gitignore
 [color]
@@ -21,3 +21,5 @@
   added = green
   changed = yellow
   untracked = cyan
+[pull]
+  ff = only
