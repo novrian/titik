@@ -7,7 +7,7 @@
 [user]
 	email = andi.novrian@gmail.com
 	name = Nono Novrian
-	signingKey = ""
+	signingkey = 742DAAF3F77E779B3D24E485147789CC62A0462E
 [color "branch"]
   current = yellow reverse
   local = yellow
@@ -45,7 +45,7 @@
 [gpg]
 	program = gpg
 [commit]
-	gpgSign = false
+	gpgsign = true
 [tag]
     forceSignAnnotated = false
 [url "ssh://git@github.com/"]
